@@ -1,0 +1,1880 @@
+{
+  "items": [
+    {
+      "id": "1000385874",
+      "name": "Кофе растворимый Monarch 270г",
+      "price": "899.99",
+      "regular_price": "1849.99",
+      "seoCode": "jacobs_monarch_kofe_naturalnyy_rastvorimyy_sublimirovannyy_270g_steklyannaya_banka_ooo_yakobs_dau_eg"
+    },
+    {
+      "id": "1000494103",
+      "name": "Кофе растворимый Fresco Arabica Solo сублимированный 190г",
+      "price": "569.99",
+      "regular_price": "1339.99",
+      "seoCode": "fresco_arabica_solo_kofe_rastvor_sublim_190g"
+    },
+    {
+      "id": "1000137618",
+      "name": "Кофе растворимый Monarch Velour натуральный 95г",
+      "price": "314.99",
+      "regular_price": "769.99",
+      "seoCode": "kofe_jacobs_velour_rastvorimyy_95g"
+    },
+    {
+      "id": "1000384116",
+      "name": "Кофе растворимый Monarch Caramel натуральный Карамель 95г",
+      "price": "419.99",
+      "regular_price": "899.99",
+      "seoCode": "jacobs_caramel_kofe_naturalnyy_rastvorimyy_sublimirovannyy_karamel_95g_steklyannaya_banka_ooo_yakobs"
+    },
+    {
+      "id": "1000161152",
+      "name": "Кофе растворимый Nescafe Classic Crema 95г",
+      "price": "299.99",
+      "regular_price": "499.99",
+      "seoCode": "kofe_nescafe_classic_crema_rastvorimyy_95g"
+    },
+    {
+      "id": "1547000011",
+      "name": "Кофе растворимый Monarch Original натуральный 190г",
+      "price": "629.99",
+      "regular_price": "1799.99",
+      "seoCode": "kofe_jacobs_monarch_rastvorimyy_190g"
+    },
+    {
+      "id": "1000381437",
+      "name": "Кофе молотый Barista Mio Баланс натуральный жареный 225г",
+      "price": "319.99",
+      "regular_price": "409.99",
+      "seoCode": "barista_mio_balans_kofe_11285_robusta_arabika_kofein_ne_menee_0_7_v_pereschyete_na_sukhoe_veshchestv"
+    },
+    {
+      "id": "1000273925",
+      "name": "Кофе растворимый Московская кофейня на паяхъ Mokko 95г",
+      "price": "369.99",
+      "regular_price": "599.99",
+      "seoCode": "kofe_rastvorimyy_moskovskaya_kofeynya_na_payakh_mokko_95g"
+    },
+    {
+      "id": "1000052957",
+      "name": "Кофе растворимый Monarch Original натуральный сублимированный 75г",
+      "price": "329.99",
+      "regular_price": "699.99",
+      "seoCode": "kofe_jacobs_millicano_rastvorimyy_75g"
+    },
+    {
+      "id": "1000176501",
+      "name": "Кофе растворимый Московская кофейня на паяхъ Арабика 95г",
+      "price": "469.99",
+      "regular_price": "959.99",
+      "seoCode": "kofe_moskovskaya_kofeynya_na_payakh_arabika_rastvorimyy_95g"
+    },
+    {
+      "id": "1000455954",
+      "name": "Кофе растворимый Nescafe Classic Crema 190г",
+      "price": "499.99",
+      "regular_price": "999.99",
+      "seoCode": "nescafe_classic_crema_kofe_rastvorimyy_190g_st_ban"
+    },
+    {
+      "id": "1000282817",
+      "name": "Кофе в зернах Barista Pro Bar 1кг",
+      "price": "1299.99",
+      "regular_price": "No.ne",
+      "seoCode": "barista_pro_bar_kofe_7349_robusta_arabika_naturalnyy_zharenyy_v_zernakh_1kg_stabilo_beg_avd_prodaksh"
+    },
+    {
+      "id": "3147800001",
+      "name": "Кофе растворимый Carte Noire 95г",
+      "price": "469.99",
+      "regular_price": "1699.99",
+      "seoCode": "kofe_carte_noire_rastvorimyy_95g"
+    },
+    {
+      "id": "1000198868",
+      "name": "Кофе растворимый Monarch Gold натуральный 95г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_jacobs_gold_rastvorimyy_95g"
+    },
+    {
+      "id": "3141730001",
+      "name": "Кофе растворимый Monarch Original 95г",
+      "price": "349.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_jacobs_monarch_rastvorimyy_95g"
+    },
+    {
+      "id": "1000271516",
+      "name": "Кофе растворимый Нескафе Голд натуральный сублимированный 190г",
+      "price": "579.99",
+      "regular_price": "1399.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_190g"
+    },
+    {
+      "id": "1000380454",
+      "name": "Кофе растворимый Nescafe Gold Aroma Intenso сублимированный 170г",
+      "price": "499.99",
+      "regular_price": "1599.99",
+      "seoCode": "nescafe_gold_aroma_intenso_kofe_12458762_sublimirovannyy_170g_steklyannaya_banka_ooo_nestle_kuban_6"
+    },
+    {
+      "id": "1041239942",
+      "name": "Напиток кофейный MacCoffee Original 3в1 10пак*20г",
+      "price": "159.99",
+      "regular_price": "209.99",
+      "seoCode": "kofe_maccoffee_3v1_rastvorimyy_10pak_kh20g"
+    },
+    {
+      "id": "1000371456",
+      "name": "Кофе растворимый Nescafe Classic Crema натуральный 120г",
+      "price": "349.99",
+      "regular_price": "619.99",
+      "seoCode": "nescafe_kofe_12483004_naturalnyy_rastvorimyy_poroshkoobraznyy_0_120kg_doy_pak_ooo_nestle_kuban_8"
+    },
+    {
+      "id": "1000149541",
+      "name": "Кофе растворимый Jardin Colombia Medellin 75г",
+      "price": "279.99",
+      "regular_price": "419.99",
+      "seoCode": "jardin_colombia_medellin_kofe_rast_sublim_75g_d_p_orimi_12"
+    },
+    {
+      "id": "9919990020",
+      "name": "Кофе растворимый Московская кофейня на паяхъ Суаре 95г",
+      "price": "329.99",
+      "regular_price": "669.99",
+      "seoCode": "kofe_moskovskaya_kofeynya_na_payakh_suare_rastvorimyy_95g"
+    },
+    {
+      "id": "3144700002",
+      "name": "Кофе растворимый Monarch Original сублимированный 47.5г",
+      "price": "199.99",
+      "regular_price": "519.99",
+      "seoCode": "kofe_rastvorimyy_jacobs_monarch_47_5g"
+    },
+    {
+      "id": "1000111111",
+      "name": "Кофе растворимый Черная карта Gold натуральный 95г",
+      "price": "319.99",
+      "regular_price": "499.99",
+      "seoCode": "kofe_chernaya_karta_gold_rastvorimyy_95g"
+    },
+    {
+      "id": "1000554108",
+      "name": "Кофе растворимый Gusto Di Roma натуральный 190г",
+      "price": "409.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_rastvorimyy_190g_st_ban_santi"
+    },
+    {
+      "id": "1000269701",
+      "name": "Кофе растворимый Maccoffee Cappuccino Di Torino 5саше*127.5г",
+      "price": "149.99",
+      "regular_price": "173.99",
+      "seoCode": "maccoffee_napitok_kofeynyy_102155_rastvorimyy_s_temnym_shokoladom_5_sashe_shou_boks_127_5g_kartonnaya"
+    },
+    {
+      "id": "1000088582",
+      "name": "Кофе растворимый Жокей Триумф 150г",
+      "price": "429.99",
+      "regular_price": "559.99",
+      "seoCode": "zhokey_triumf_kofe_sublimirovannyy_150g_d_p_nep_8"
+    },
+    {
+      "id": "1000493525",
+      "name": "Кофе молочный Piazza Del Caffe Crema Vellutata жареный 250г",
+      "price": "429.99",
+      "regular_price": "549.99",
+      "seoCode": "piazza_del_caffe_crema_vellutata_kofe_mol_zhar_250g"
+    },
+    {
+      "id": "1000325061",
+      "name": "Кофейный напиток Нескафе 3в1 Классический 14.5г",
+      "price": "16.99",
+      "regular_price": "24.99",
+      "seoCode": "nescafe_kofeynyy_napitok_3v1_klassicheskiy_14_5g_240"
+    },
+    {
+      "id": "9934700007",
+      "name": "Кофе растворимый Monarch Intense 95г",
+      "price": "379.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_jacobs_monarch_intense_95g"
+    },
+    {
+      "id": "1000350610",
+      "name": "Кофе молотый в растворимом Monarch Miligrano натуральный сублимированный 160г",
+      "price": "1799.99",
+      "regular_price": "No.ne",
+      "seoCode": "jacobs_millicano_kofe_160g_steklyannaya_banka_ooo_yakobs_dau_egberts_rus_6"
+    },
+    {
+      "id": "1000325062",
+      "name": "Кофейный напиток Нескафе 3в1 Мягкий сливочный 14.5г",
+      "price": "19.99",
+      "regular_price": "No.ne",
+      "seoCode": "nescafe_kofeynyy_napitok_3v1_myagkiy_slivochnyy_14_5g_240"
+    },
+    {
+      "id": "1500000110",
+      "name": "Кофе молотый Lebo 100г",
+      "price": "229.99",
+      "regular_price": "329.99",
+      "seoCode": "kofe_lebo_molotyy_100g"
+    },
+    {
+      "id": "1000371667",
+      "name": "Кофе растворимый Nescafe Classic Арабика 320г",
+      "price": "729.99",
+      "regular_price": "1399.99",
+      "seoCode": "nescafe_classic_kofe_12477176_s_dobavleniem_naturalnogo_zharenogo_molotogo_kofe_320g_doy_pak_ooo_nes"
+    },
+    {
+      "id": "1000413459",
+      "name": "Кофе молотый Barista Mio Крепкий натуральный жареный 225г",
+      "price": "299.99",
+      "regular_price": "409.99",
+      "seoCode": "barista_mio_kofe_krepkiy_nat_zharenyy_molotyy_225g_st_beg"
+    },
+    {
+      "id": "1000075426",
+      "name": "Кофе молотый Egoiste Noir 250г",
+      "price": "849.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_egoiste_noir_250g"
+    },
+    {
+      "id": "1000381646",
+      "name": "Кофе молотый Lalibela Coffee Mokka жареный 200г",
+      "price": "299.99",
+      "regular_price": "499.99",
+      "seoCode": "lalibela_coffee_kofe_89188_kofe_zharenyy_molotyy_10_arabika_90_robusta_3_1_sukhaya_net_gorkovatyy_20"
+    },
+    {
+      "id": "1000111108",
+      "name": "Кофе растворимый Ambassador Platinum 190г",
+      "price": "499.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_ambassador_platinum_rastvorimyy_190g"
+    },
+    {
+      "id": "1000179817",
+      "name": "Кофе молотый Жокей Ирландские сливки 150г",
+      "price": "239.99",
+      "regular_price": "439.99",
+      "seoCode": "kofe_zhokey_molotyy_irlandskie_slivki_arabika_150g"
+    },
+    {
+      "id": "1000013928",
+      "name": "Кофе растворимый Tibio/Tchibo Gold Selection 75г",
+      "price": "299.99",
+      "regular_price": "399.99",
+      "seoCode": "kofe_tchibo_gold_selection_rastvorimyy_75g"
+    },
+    {
+      "id": "1000504736",
+      "name": "Кофе растворимый Monarch Asian Selection сублимированный 180г",
+      "price": "599.99",
+      "regular_price": "1539.99",
+      "seoCode": "monarch_asian_selection_kofe_sublimirovannyy_180g"
+    },
+    {
+      "id": "9919990020",
+      "name": "Кофе растворимый Московская кофейня на паяхъ Суаре 95г",
+      "price": "329.99",
+      "regular_price": "669.99",
+      "seoCode": "kofe_moskovskaya_kofeynya_na_payakh_suare_rastvorimyy_95g"
+    },
+    {
+      "id": "3144700002",
+      "name": "Кофе растворимый Monarch Original сублимированный 47.5г",
+      "price": "199.99",
+      "regular_price": "519.99",
+      "seoCode": "kofe_rastvorimyy_jacobs_monarch_47_5g"
+    },
+    {
+      "id": "1000111111",
+      "name": "Кофе растворимый Черная карта Gold натуральный 95г",
+      "price": "319.99",
+      "regular_price": "499.99",
+      "seoCode": "kofe_chernaya_karta_gold_rastvorimyy_95g"
+    },
+    {
+      "id": "1000554108",
+      "name": "Кофе растворимый Gusto Di Roma натуральный 190г",
+      "price": "409.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_rastvorimyy_190g_st_ban_santi"
+    },
+    {
+      "id": "1000269701",
+      "name": "Кофе растворимый Maccoffee Cappuccino Di Torino 5саше*127.5г",
+      "price": "149.99",
+      "regular_price": "173.99",
+      "seoCode": "maccoffee_napitok_kofeynyy_102155_rastvorimyy_s_temnym_shokoladom_5_sashe_shou_boks_127_5g_kartonnaya"
+    },
+    {
+      "id": "1000088582",
+      "name": "Кофе растворимый Жокей Триумф 150г",
+      "price": "429.99",
+      "regular_price": "559.99",
+      "seoCode": "zhokey_triumf_kofe_sublimirovannyy_150g_d_p_nep_8"
+    },
+    {
+      "id": "1000493525",
+      "name": "Кофе молочный Piazza Del Caffe Crema Vellutata жареный 250г",
+      "price": "429.99",
+      "regular_price": "549.99",
+      "seoCode": "piazza_del_caffe_crema_vellutata_kofe_mol_zhar_250g"
+    },
+    {
+      "id": "1000325061",
+      "name": "Кофейный напиток Нескафе 3в1 Классический 14.5г",
+      "price": "16.99",
+      "regular_price": "24.99",
+      "seoCode": "nescafe_kofeynyy_napitok_3v1_klassicheskiy_14_5g_240"
+    },
+    {
+      "id": "9934700007",
+      "name": "Кофе растворимый Monarch Intense 95г",
+      "price": "379.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_jacobs_monarch_intense_95g"
+    },
+    {
+      "id": "1000350610",
+      "name": "Кофе молотый в растворимом Monarch Miligrano натуральный сублимированный 160г",
+      "price": "1799.99",
+      "regular_price": "No.ne",
+      "seoCode": "jacobs_millicano_kofe_160g_steklyannaya_banka_ooo_yakobs_dau_egberts_rus_6"
+    },
+    {
+      "id": "1000325062",
+      "name": "Кофейный напиток Нескафе 3в1 Мягкий сливочный 14.5г",
+      "price": "19.99",
+      "regular_price": "No.ne",
+      "seoCode": "nescafe_kofeynyy_napitok_3v1_myagkiy_slivochnyy_14_5g_240"
+    },
+    {
+      "id": "1500000110",
+      "name": "Кофе молотый Lebo 100г",
+      "price": "229.99",
+      "regular_price": "329.99",
+      "seoCode": "kofe_lebo_molotyy_100g"
+    },
+    {
+      "id": "1000371667",
+      "name": "Кофе растворимый Nescafe Classic Арабика 320г",
+      "price": "729.99",
+      "regular_price": "1399.99",
+      "seoCode": "nescafe_classic_kofe_12477176_s_dobavleniem_naturalnogo_zharenogo_molotogo_kofe_320g_doy_pak_ooo_nes"
+    },
+    {
+      "id": "1000413459",
+      "name": "Кофе молотый Barista Mio Крепкий натуральный жареный 225г",
+      "price": "299.99",
+      "regular_price": "409.99",
+      "seoCode": "barista_mio_kofe_krepkiy_nat_zharenyy_molotyy_225g_st_beg"
+    },
+    {
+      "id": "1000075426",
+      "name": "Кофе молотый Egoiste Noir 250г",
+      "price": "849.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_egoiste_noir_250g"
+    },
+    {
+      "id": "1000381646",
+      "name": "Кофе молотый Lalibela Coffee Mokka жареный 200г",
+      "price": "299.99",
+      "regular_price": "499.99",
+      "seoCode": "lalibela_coffee_kofe_89188_kofe_zharenyy_molotyy_10_arabika_90_robusta_3_1_sukhaya_net_gorkovatyy_20"
+    },
+    {
+      "id": "1000111108",
+      "name": "Кофе растворимый Ambassador Platinum 190г",
+      "price": "499.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_ambassador_platinum_rastvorimyy_190g"
+    },
+    {
+      "id": "1000179817",
+      "name": "Кофе молотый Жокей Ирландские сливки 150г",
+      "price": "239.99",
+      "regular_price": "439.99",
+      "seoCode": "kofe_zhokey_molotyy_irlandskie_slivki_arabika_150g"
+    },
+    {
+      "id": "1000013928",
+      "name": "Кофе растворимый Tibio/Tchibo Gold Selection 75г",
+      "price": "299.99",
+      "regular_price": "399.99",
+      "seoCode": "kofe_tchibo_gold_selection_rastvorimyy_75g"
+    },
+    {
+      "id": "1000504736",
+      "name": "Кофе растворимый Monarch Asian Selection сублимированный 180г",
+      "price": "599.99",
+      "regular_price": "1539.99",
+      "seoCode": "monarch_asian_selection_kofe_sublimirovannyy_180g"
+    },
+    {
+      "id": "1000230146",
+      "name": "Кофе растворимый Nescafe Gold с молотым 47.5г",
+      "price": "199.99",
+      "regular_price": "349.99",
+      "seoCode": "nescafe_gold_kofe_sublim_s_mol_kofe_47_5g_st_b_nestle_12"
+    },
+    {
+      "id": "8000008414",
+      "name": "Кофе молотый Coffee Turca Turkish Coffee 100г",
+      "price": "219.99",
+      "regular_price": "299.99",
+      "seoCode": "coffee_turca_turkish_coffee_molotyy_100g"
+    },
+    {
+      "id": "1000384539",
+      "name": "Кофе растворимый Monarch натуральный сублимированный 210г",
+      "price": "649.99",
+      "regular_price": "1799.99",
+      "seoCode": "jacobs_monarch_kofe_210g_doy_pak_ooo_yakobs_dau_egberts_rus_6"
+    },
+    {
+      "id": "1000400753",
+      "name": "Кофе растворимый Gusto Di Roma сублимированный 95г",
+      "price": "299.99",
+      "regular_price": "No.ne",
+      "seoCode": "magnit_kofe_sublimirovannyy_95g"
+    },
+    {
+      "id": "1000488455",
+      "name": "Кофе молотый Monarch Turka по-восточному 200г",
+      "price": "349.99",
+      "regular_price": "539.99",
+      "seoCode": "jacobs_turka_kofe_po_vostochnomu_molotyy_200g"
+    },
+    {
+      "id": "3101160202",
+      "name": "Кофе молотый Жокей По-восточному 250г",
+      "price": "399.99",
+      "regular_price": "No.ne",
+      "seoCode": "kofe_zhokey_molotyy_po_vostochnomu_250g"
+    },
+    {
+      "id": "1000269627",
+      "name": "Кофе молотый Tibio/Tchibo Gold Selection натуральный жареный 250г",
+      "price": "429.99",
+      "regular_price": "649.99",
+      "seoCode": "tchibo_gold_selection_kofe_94368_naturalnyy_zharenyy_molotyy_kofe_250_g_vakuumnaya_upakovka_12"
+    },
+    {
+      "id": "1000532506",
+      "name": "Напиток кофейный Monarch Salted Caramel Latte 15г",
+      "price": "27.99",
+      "regular_price": "40.99",
+      "seoCode": "monarch_napitok_kofeynyy_salted_caramel_latte_15g"
+    },
+    {
+      "id": "1000179728",
+      "name": "Кофе растворимый Черная карта Gold 150г",
+      "price": "699.99",
+      "regular_price": "No.ne",
+      "seoCode": "kofe_chernaya_karta_gold_rastvorimyy_150g"
+    },
+    {
+      "id": "1000222166",
+      "name": "Злаковый напиток Старая Мельница Осенний 100г",
+      "price": "51.99",
+      "regular_price": "69.99",
+      "seoCode": "staraya_melnitsa_zlak_nap_yach_tsik_osenniy100g_russkiy_prod_14"
+    },
+    {
+      "id": "1000551678",
+      "name": "Напиток кофейный Nescafe Classic 3в1 классический 14.5г*9",
+      "price": "129.99",
+      "regular_price": "209.99",
+      "seoCode": "nescafe_3v1_classic_napitok_kofeyn_klassich_14_5gkh9_d_p"
+    },
+    {
+      "id": "1000271035",
+      "name": "Кофе растворимый Нескафе Классик натуральный 60г",
+      "price": "159.99",
+      "regular_price": "229.99",
+      "seoCode": "kofe_nescafe_classic_rastvorimyy_60g"
+    },
+    {
+      "id": "9924200006",
+      "name": "Кофе молотый Jardin Espresso Di Milano 250г",
+      "price": "449.99",
+      "regular_price": "599.99",
+      "seoCode": "kofe_jardin_espresso_stile_di_milano_molotyy_250g"
+    },
+    {
+      "id": "1000244321",
+      "name": "Кофе 3в1 MacCoffee Cappuccino Di Torino Темный шоколад растворимый 25.5г",
+      "price": "26.99",
+      "regular_price": "42.99",
+      "seoCode": "kofe_maccoffee_3v1_capdi_torino_temnyy_shokolad_rastvorimyy_25_5g"
+    },
+    {
+      "id": "1000304793",
+      "name": "Кофе в зернах Ambassador Nero 1кг",
+      "price": "1299.99",
+      "regular_price": "1799.99",
+      "seoCode": "ambassador_nero_kofe_zernovoy_naturalnyy_temnoobzharennyy_1kg_stabilo_beg_ooo_shtraus_6"
+    },
+    {
+      "id": "1599400786",
+      "name": "Кофе молотый Петр Великий Императорский 204г",
+      "price": "429.99",
+      "regular_price": "699.99",
+      "seoCode": "kofe_petr_velikiy_imperatorskiy_pomol_204g"
+    },
+    {
+      "id": "1000309033",
+      "name": "Кофе молотый Fresco Arabica 200г",
+      "price": "389.99",
+      "regular_price": "629.99",
+      "seoCode": "fresco_arabica_solo_kofe_naturalnyy_zharenyy_molotyy_sredneobzharennyy_200g_stabilo_beg_ooo_slavkofe"
+    },
+    {
+      "id": "1000111109",
+      "name": "Кофе растворимый Черная карта Exclusive Brasillia Натуральный 95г",
+      "price": "319.99",
+      "regular_price": "449.99",
+      "seoCode": "kofe_chernaya_karta_exclusive_brasillia_rastvorimyy_95g"
+    },
+    {
+      "id": "8000008410",
+      "name": "Кофе молотый Monarch Gold Arabica жареный 200г",
+      "price": "399.99",
+      "regular_price": "849.99",
+      "seoCode": "monarch_gold_arabica_kofe_zharenyy_molotyy_200g"
+    },
+    {
+      "id": "1000230148",
+      "name": "Кофе молотый в растворимом Nescafe Gold 190г",
+      "price": "599.99",
+      "regular_price": "1599.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_190g"
+    },
+    {
+      "id": "9924200004",
+      "name": "Кофе молотый Jardin Dessert Cup 250г",
+      "price": "449.99",
+      "regular_price": "559.99",
+      "seoCode": "jardin_dessert_cup_kofe_molotyy_250g_v_u_orimi_treyd_12"
+    },
+    {
+      "id": "1000446780",
+      "name": "Кофе в зёрнах Piazza del caffe Espresso Forte 1кг",
+      "price": "1499.99",
+      "regular_price": "1899.99",
+      "seoCode": "piazza_del_caffe_espresso_forte_kofe_v_zyernakh_1kg_st_beg"
+    },
+    {
+      "id": "1000275503",
+      "name": "Кофе растворимый Нескафе Латте 18г",
+      "price": "27.99",
+      "regular_price": "42.99",
+      "seoCode": "nescafe_kofe_12385590_latte_18g_sashet_ooo_nestle_kuban_240"
+    },
+    {
+      "id": "1000116506",
+      "name": "Кофе молотый Черная карта натуральный жареный 250г",
+      "price": "319.99",
+      "regular_price": "499.99",
+      "seoCode": "kofe_chernaya_karta_molotyy_250g"
+    },
+    {
+      "id": "9912420006",
+      "name": "Кофе растворимый Jardin Colombia Medellin 95г",
+      "price": "329.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_jardin_colombia_medellin_rastvorimyy_95g"
+    },
+    {
+      "id": "1000275502",
+      "name": "Напиток кофейный Nescafe Cappuccino 18г",
+      "price": "27.99",
+      "regular_price": "42.99",
+      "seoCode": "nescafe_kofe_12385567_kapuchino_18g_sashet_ooo_nestle_kuban_240"
+    },
+    {
+      "id": "1000202860",
+      "name": "Кофе молотый Monarch Original натуральный жареный 230г",
+      "price": "379.99",
+      "regular_price": "849.99",
+      "seoCode": "kofe_jacobs_monarch_molotyy_230g"
+    },
+    {
+      "id": "1000125928",
+      "name": "Кофе молотый Lavazza Qualita Oro 250г",
+      "price": "799.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_molotyy_lavazza_qualita_oro_pyerfekt_simfoni_250g"
+    },
+    {
+      "id": "1000460797",
+      "name": "Кофе молотый Магнит натуральный 200г",
+      "price": "299.99",
+      "regular_price": "No.ne",
+      "seoCode": "magnit_kofe_natur_molot_200g_stab_beg"
+    },
+    {
+      "id": "1000189678",
+      "name": "Кофе в зернах Monarch Original натуральный жареный 800г",
+      "price": "1299.99",
+      "regular_price": "2499.99",
+      "seoCode": "kofe_jacobs_monarch_zernovoy_800g"
+    },
+    {
+      "id": "1000116505",
+      "name": "Кофе в зернах Черная карта Арабика 250г",
+      "price": "429.00",
+      "regular_price": "509.99",
+      "seoCode": "kofe_chernaya_karta_zernovoy_250g"
+    },
+    {
+      "id": "1000400750",
+      "name": "Кофе растворимый Gusto Di Roma сублимированный + молотый 95г",
+      "price": "299.99",
+      "regular_price": "No.ne",
+      "seoCode": "magnit_kofe_sublimirov_molotyy_95g"
+    },
+    {
+      "id": "1000540077",
+      "name": "Кофе растворимый Monarch Milligrano натуральный 70г",
+      "price": "329.99",
+      "regular_price": "799.99",
+      "seoCode": "monarch_milligrano_kofe_natur_rastvor_70g"
+    },
+    {
+      "id": "1000159523",
+      "name": "Кофе молотый Tibio/Tchibo Gold Мokka натуральный 250г",
+      "price": "471.99",
+      "regular_price": "599.99",
+      "seoCode": "kofe_tchibo_gold_mokka_naturalnyy_molotyy_250g"
+    },
+    {
+      "id": "1000117098",
+      "name": "Напиток кофейный растворимый Monarch 3в1 Classic 13.5г",
+      "price": "14.99",
+      "regular_price": "25.99",
+      "seoCode": "kofe_jacobs_3v1_klassik_12g"
+    },
+    {
+      "id": "9932420003",
+      "name": "Кофе растворимый Jardin Guatemala Atitlan 95г",
+      "price": "299.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_jardin_guatemala_atitlan_rastvorimyy_95g"
+    },
+    {
+      "id": "1000248542",
+      "name": "Кофе молотый Egoiste Velvet 200г",
+      "price": "799.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_egoiste_velvet_molotyy_200g"
+    },
+    {
+      "id": "9919990013",
+      "name": "Напиток кофейный MacCoffee Original растворимый 3в1 20г",
+      "price": "18.99",
+      "regular_price": "22.99",
+      "seoCode": "kofe_maccoffee_3v1_20g"
+    },
+    {
+      "id": "1000230147",
+      "name": "Кофе молотый Нескафе Голд сублимированный 95г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_95g"
+    },
+    {
+      "id": "1000075425",
+      "name": "Кофе в зернах Egoiste Noir 250г",
+      "price": "849.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_egoiste_noir_zernovoy_premium_250g"
+    },
+    {
+      "id": "9924200004",
+      "name": "Кофе молотый Jardin Dessert Cup 250г",
+      "price": "449.99",
+      "regular_price": "559.99",
+      "seoCode": "jardin_dessert_cup_kofe_molotyy_250g_v_u_orimi_treyd_12"
+    },
+    {
+      "id": "1000446780",
+      "name": "Кофе в зёрнах Piazza del caffe Espresso Forte 1кг",
+      "price": "1499.99",
+      "regular_price": "1899.99",
+      "seoCode": "piazza_del_caffe_espresso_forte_kofe_v_zyernakh_1kg_st_beg"
+    },
+    {
+      "id": "1000275503",
+      "name": "Кофе растворимый Нескафе Латте 18г",
+      "price": "27.99",
+      "regular_price": "42.99",
+      "seoCode": "nescafe_kofe_12385590_latte_18g_sashet_ooo_nestle_kuban_240"
+    },
+    {
+      "id": "1000116506",
+      "name": "Кофе молотый Черная карта натуральный жареный 250г",
+      "price": "319.99",
+      "regular_price": "499.99",
+      "seoCode": "kofe_chernaya_karta_molotyy_250g"
+    },
+    {
+      "id": "9912420006",
+      "name": "Кофе растворимый Jardin Colombia Medellin 95г",
+      "price": "329.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_jardin_colombia_medellin_rastvorimyy_95g"
+    },
+    {
+      "id": "1000275502",
+      "name": "Напиток кофейный Nescafe Cappuccino 18г",
+      "price": "27.99",
+      "regular_price": "42.99",
+      "seoCode": "nescafe_kofe_12385567_kapuchino_18g_sashet_ooo_nestle_kuban_240"
+    },
+    {
+      "id": "1000202860",
+      "name": "Кофе молотый Monarch Original натуральный жареный 230г",
+      "price": "379.99",
+      "regular_price": "849.99",
+      "seoCode": "kofe_jacobs_monarch_molotyy_230g"
+    },
+    {
+      "id": "1000125928",
+      "name": "Кофе молотый Lavazza Qualita Oro 250г",
+      "price": "799.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_molotyy_lavazza_qualita_oro_pyerfekt_simfoni_250g"
+    },
+    {
+      "id": "1000460797",
+      "name": "Кофе молотый Магнит натуральный 200г",
+      "price": "299.99",
+      "regular_price": "No.ne",
+      "seoCode": "magnit_kofe_natur_molot_200g_stab_beg"
+    },
+    {
+      "id": "1000189678",
+      "name": "Кофе в зернах Monarch Original натуральный жареный 800г",
+      "price": "1299.99",
+      "regular_price": "2499.99",
+      "seoCode": "kofe_jacobs_monarch_zernovoy_800g"
+    },
+    {
+      "id": "1000116505",
+      "name": "Кофе в зернах Черная карта Арабика 250г",
+      "price": "429.00",
+      "regular_price": "509.99",
+      "seoCode": "kofe_chernaya_karta_zernovoy_250g"
+    },
+    {
+      "id": "1000400750",
+      "name": "Кофе растворимый Gusto Di Roma сублимированный + молотый 95г",
+      "price": "299.99",
+      "regular_price": "No.ne",
+      "seoCode": "magnit_kofe_sublimirov_molotyy_95g"
+    },
+    {
+      "id": "1000540077",
+      "name": "Кофе растворимый Monarch Milligrano натуральный 70г",
+      "price": "329.99",
+      "regular_price": "799.99",
+      "seoCode": "monarch_milligrano_kofe_natur_rastvor_70g"
+    },
+    {
+      "id": "1000159523",
+      "name": "Кофе молотый Tibio/Tchibo Gold Мokka натуральный 250г",
+      "price": "471.99",
+      "regular_price": "599.99",
+      "seoCode": "kofe_tchibo_gold_mokka_naturalnyy_molotyy_250g"
+    },
+    {
+      "id": "1000117098",
+      "name": "Напиток кофейный растворимый Monarch 3в1 Classic 13.5г",
+      "price": "14.99",
+      "regular_price": "25.99",
+      "seoCode": "kofe_jacobs_3v1_klassik_12g"
+    },
+    {
+      "id": "9932420003",
+      "name": "Кофе растворимый Jardin Guatemala Atitlan 95г",
+      "price": "299.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_jardin_guatemala_atitlan_rastvorimyy_95g"
+    },
+    {
+      "id": "1000248542",
+      "name": "Кофе молотый Egoiste Velvet 200г",
+      "price": "799.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_egoiste_velvet_molotyy_200g"
+    },
+    {
+      "id": "9919990013",
+      "name": "Напиток кофейный MacCoffee Original растворимый 3в1 20г",
+      "price": "18.99",
+      "regular_price": "22.99",
+      "seoCode": "kofe_maccoffee_3v1_20g"
+    },
+    {
+      "id": "1000230147",
+      "name": "Кофе молотый Нескафе Голд сублимированный 95г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_95g"
+    },
+    {
+      "id": "1000075425",
+      "name": "Кофе в зернах Egoiste Noir 250г",
+      "price": "849.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_egoiste_noir_zernovoy_premium_250g"
+    },
+    {
+      "id": "9924200004",
+      "name": "Кофе молотый Jardin Dessert Cup 250г",
+      "price": "449.99",
+      "regular_price": "559.99",
+      "seoCode": "jardin_dessert_cup_kofe_molotyy_250g_v_u_orimi_treyd_12"
+    },
+    {
+      "id": "1000446780",
+      "name": "Кофе в зёрнах Piazza del caffe Espresso Forte 1кг",
+      "price": "1499.99",
+      "regular_price": "1899.99",
+      "seoCode": "piazza_del_caffe_espresso_forte_kofe_v_zyernakh_1kg_st_beg"
+    },
+    {
+      "id": "1000275503",
+      "name": "Кофе растворимый Нескафе Латте 18г",
+      "price": "27.99",
+      "regular_price": "42.99",
+      "seoCode": "nescafe_kofe_12385590_latte_18g_sashet_ooo_nestle_kuban_240"
+    },
+    {
+      "id": "1000116506",
+      "name": "Кофе молотый Черная карта натуральный жареный 250г",
+      "price": "319.99",
+      "regular_price": "499.99",
+      "seoCode": "kofe_chernaya_karta_molotyy_250g"
+    },
+    {
+      "id": "9912420006",
+      "name": "Кофе растворимый Jardin Colombia Medellin 95г",
+      "price": "329.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_jardin_colombia_medellin_rastvorimyy_95g"
+    },
+    {
+      "id": "1000275502",
+      "name": "Напиток кофейный Nescafe Cappuccino 18г",
+      "price": "27.99",
+      "regular_price": "42.99",
+      "seoCode": "nescafe_kofe_12385567_kapuchino_18g_sashet_ooo_nestle_kuban_240"
+    },
+    {
+      "id": "1000202860",
+      "name": "Кофе молотый Monarch Original натуральный жареный 230г",
+      "price": "379.99",
+      "regular_price": "849.99",
+      "seoCode": "kofe_jacobs_monarch_molotyy_230g"
+    },
+    {
+      "id": "1000125928",
+      "name": "Кофе молотый Lavazza Qualita Oro 250г",
+      "price": "799.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_molotyy_lavazza_qualita_oro_pyerfekt_simfoni_250g"
+    },
+    {
+      "id": "1000460797",
+      "name": "Кофе молотый Магнит натуральный 200г",
+      "price": "299.99",
+      "regular_price": "No.ne",
+      "seoCode": "magnit_kofe_natur_molot_200g_stab_beg"
+    },
+    {
+      "id": "1000189678",
+      "name": "Кофе в зернах Monarch Original натуральный жареный 800г",
+      "price": "1299.99",
+      "regular_price": "2499.99",
+      "seoCode": "kofe_jacobs_monarch_zernovoy_800g"
+    },
+    {
+      "id": "1000116505",
+      "name": "Кофе в зернах Черная карта Арабика 250г",
+      "price": "429.00",
+      "regular_price": "509.99",
+      "seoCode": "kofe_chernaya_karta_zernovoy_250g"
+    },
+    {
+      "id": "1000400750",
+      "name": "Кофе растворимый Gusto Di Roma сублимированный + молотый 95г",
+      "price": "299.99",
+      "regular_price": "No.ne",
+      "seoCode": "magnit_kofe_sublimirov_molotyy_95g"
+    },
+    {
+      "id": "1000540077",
+      "name": "Кофе растворимый Monarch Milligrano натуральный 70г",
+      "price": "329.99",
+      "regular_price": "799.99",
+      "seoCode": "monarch_milligrano_kofe_natur_rastvor_70g"
+    },
+    {
+      "id": "1000159523",
+      "name": "Кофе молотый Tibio/Tchibo Gold Мokka натуральный 250г",
+      "price": "471.99",
+      "regular_price": "599.99",
+      "seoCode": "kofe_tchibo_gold_mokka_naturalnyy_molotyy_250g"
+    },
+    {
+      "id": "1000117098",
+      "name": "Напиток кофейный растворимый Monarch 3в1 Classic 13.5г",
+      "price": "14.99",
+      "regular_price": "25.99",
+      "seoCode": "kofe_jacobs_3v1_klassik_12g"
+    },
+    {
+      "id": "9932420003",
+      "name": "Кофе растворимый Jardin Guatemala Atitlan 95г",
+      "price": "299.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_jardin_guatemala_atitlan_rastvorimyy_95g"
+    },
+    {
+      "id": "1000248542",
+      "name": "Кофе молотый Egoiste Velvet 200г",
+      "price": "799.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_egoiste_velvet_molotyy_200g"
+    },
+    {
+      "id": "9919990013",
+      "name": "Напиток кофейный MacCoffee Original растворимый 3в1 20г",
+      "price": "18.99",
+      "regular_price": "22.99",
+      "seoCode": "kofe_maccoffee_3v1_20g"
+    },
+    {
+      "id": "1000230147",
+      "name": "Кофе молотый Нескафе Голд сублимированный 95г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_95g"
+    },
+    {
+      "id": "1000075425",
+      "name": "Кофе в зернах Egoiste Noir 250г",
+      "price": "849.99",
+      "regular_price": "1199.99",
+      "seoCode": "kofe_egoiste_noir_zernovoy_premium_250g"
+    },
+    {
+      "id": "1000350863",
+      "name": "Кофе растворимый Jardin Gold 190г",
+      "price": "549.99",
+      "regular_price": "1039.99",
+      "seoCode": "kofe-jardin-gold-rastvorimyy-190g"
+    },
+    {
+      "id": "1000270401",
+      "name": "Кофе растворимый Нескафе Классик 130г",
+      "price": "349.99",
+      "regular_price": "619.99",
+      "seoCode": "nescafe_classic_kofe_12402965_130g_doy_pak_ooo_nestle_kuban_12"
+    },
+    {
+      "id": "1000325055",
+      "name": "Кофейный напиток Нескафе 3в1 Крепкий 14.5г",
+      "price": "19.99",
+      "regular_price": "24.99",
+      "seoCode": "nescafe_kofeynyy_napitok_3v1_krepkiy_14_5g_240"
+    },
+    {
+      "id": "1000234815",
+      "name": "Кофе растворимый Egoiste Noir 100г",
+      "price": "699.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_egoiste_noir_rastvorimyy_100g"
+    },
+    {
+      "id": "1000111110",
+      "name": "Кофе растворимый Ambassador Platinum 95г",
+      "price": "329.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_ambassador_platinum_rastvorimyy_95g"
+    },
+    {
+      "id": "1000102438",
+      "name": "Кофе растворимый Jardin Colombia Medellin 150г",
+      "price": "499.99",
+      "regular_price": "819.99",
+      "seoCode": "kofe_jardin_colombia_medellin_rastvorimyy_150g"
+    },
+    {
+      "id": "1000532823",
+      "name": "Кофе растворимый Московская кофейня на паяхъ Галапагос 90г",
+      "price": "429.99",
+      "regular_price": "729.99",
+      "seoCode": "moskovskaya_kofeynya_na_payakh_galapost_kofe_rastv_90g"
+    },
+    {
+      "id": "8000008280",
+      "name": "Кофе молотый Coffesso Mokka 250г",
+      "price": "379.99",
+      "regular_price": "699.99",
+      "seoCode": "coffesso_mokka_kofe_molotyy_250g_m_up"
+    },
+    {
+      "id": "8000009835",
+      "name": "Кофе растворимый Jacobs Monarch 4в1 Карамель/Лесной орех 13.5г в ассортименте",
+      "price": "18.99",
+      "regular_price": "23.99",
+      "seoCode": "napitok_kofeynyy_monarch_4v1_karamel_lesnoy_orekh_13_5g"
+    },
+    {
+      "id": "1000189680",
+      "name": "Кофе в зернах Monarch Original натуральный жареный 230г",
+      "price": "329.99",
+      "regular_price": "799.99",
+      "seoCode": "jacobs_monarch_kofe_natur_zhar_v_zernakh_230g_m_u_yakobs_9"
+    },
+    {
+      "id": "1000270450",
+      "name": "Кофе растворимый Нескафе Классик 190г",
+      "price": "449.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_classic_rastvorimyy_190g"
+    },
+    {
+      "id": "1000156233",
+      "name": "Кофе молотый Живой кофе Arabica 200г",
+      "price": "299.99",
+      "regular_price": "509.99",
+      "seoCode": "kofe_zhivoy_arabika_naturalnyy_molotyy_200g"
+    },
+    {
+      "id": "1000304443",
+      "name": "Кофе зерновой Jardin Americano Crema 1кг",
+      "price": "1699.99",
+      "regular_price": "2099.99",
+      "seoCode": "jardin_americano_crema_kofe_1090_06_zernovoy_srednyaya_obzharka_1kg_stabilo_beg_orimi_ooo_6"
+    },
+    {
+      "id": "1000341773",
+      "name": "Кофе растворимый Nescafe Gold Aroma 85г",
+      "price": "349.99",
+      "regular_price": "829.99",
+      "seoCode": "nescafe_kofe_12451506_rastvorimyy_sublimirovannyy_85g_steklyannaya_banka_ooo_nestle_kuban_6"
+    },
+    {
+      "id": "1000503047",
+      "name": "Кофе молотый Lebo Coffee Extra Арабика для турки 75г",
+      "price": "179.99",
+      "regular_price": "279.99",
+      "seoCode": "lebo_coffee_extra_kofe_molotyy_arabika_dlya_turki_75g"
+    },
+    {
+      "id": "1524200016",
+      "name": "Кофе растворимый Жокей Триумф 95г",
+      "price": "308.99",
+      "regular_price": "409.99",
+      "seoCode": "kofe_zhokey_triumf_rastvorimyy_95g"
+    },
+    {
+      "id": "1000378334",
+      "name": "Кофе молотый Lebo Classic арабика для турки 200г",
+      "price": "471.99",
+      "regular_price": "859.99",
+      "seoCode": "lebo_coffee_kofe_200g_stabilo_beg_ao_kompaniya_produkt_servis_12"
+    },
+    {
+      "id": "1537000002",
+      "name": "Кофе молотый Московская кофейня на паяхъ Арабика 250г",
+      "price": "529.99",
+      "regular_price": "1099.99",
+      "seoCode": "moskovskaya_kofeynya_na_payakh_kofe_arabika_molotyy_250g_6"
+    },
+    {
+      "id": "1000270560",
+      "name": "Кофе молотый в растворимом Nescafe Gold 130г",
+      "price": "429.99",
+      "regular_price": "1019.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_130g"
+    },
+    {
+      "id": "1000401819",
+      "name": "Кофе молотый Моя цена натуральный 100г",
+      "price": "139.99",
+      "regular_price": "No.ne",
+      "seoCode": "moya_tsena_kofe_natur_molotyy_100g"
+    },
+    {
+      "id": "1000350863",
+      "name": "Кофе растворимый Jardin Gold 190г",
+      "price": "549.99",
+      "regular_price": "1039.99",
+      "seoCode": "kofe-jardin-gold-rastvorimyy-190g"
+    },
+    {
+      "id": "1000270401",
+      "name": "Кофе растворимый Нескафе Классик 130г",
+      "price": "349.99",
+      "regular_price": "619.99",
+      "seoCode": "nescafe_classic_kofe_12402965_130g_doy_pak_ooo_nestle_kuban_12"
+    },
+    {
+      "id": "1000325055",
+      "name": "Кофейный напиток Нескафе 3в1 Крепкий 14.5г",
+      "price": "19.99",
+      "regular_price": "24.99",
+      "seoCode": "nescafe_kofeynyy_napitok_3v1_krepkiy_14_5g_240"
+    },
+    {
+      "id": "1000234815",
+      "name": "Кофе растворимый Egoiste Noir 100г",
+      "price": "699.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_egoiste_noir_rastvorimyy_100g"
+    },
+    {
+      "id": "1000111110",
+      "name": "Кофе растворимый Ambassador Platinum 95г",
+      "price": "329.99",
+      "regular_price": "619.99",
+      "seoCode": "kofe_ambassador_platinum_rastvorimyy_95g"
+    },
+    {
+      "id": "1000102438",
+      "name": "Кофе растворимый Jardin Colombia Medellin 150г",
+      "price": "499.99",
+      "regular_price": "819.99",
+      "seoCode": "kofe_jardin_colombia_medellin_rastvorimyy_150g"
+    },
+    {
+      "id": "1000532823",
+      "name": "Кофе растворимый Московская кофейня на паяхъ Галапагос 90г",
+      "price": "429.99",
+      "regular_price": "729.99",
+      "seoCode": "moskovskaya_kofeynya_na_payakh_galapost_kofe_rastv_90g"
+    },
+    {
+      "id": "8000008280",
+      "name": "Кофе молотый Coffesso Mokka 250г",
+      "price": "379.99",
+      "regular_price": "699.99",
+      "seoCode": "coffesso_mokka_kofe_molotyy_250g_m_up"
+    },
+    {
+      "id": "8000009835",
+      "name": "Кофе растворимый Jacobs Monarch 4в1 Карамель/Лесной орех 13.5г в ассортименте",
+      "price": "18.99",
+      "regular_price": "23.99",
+      "seoCode": "napitok_kofeynyy_monarch_4v1_karamel_lesnoy_orekh_13_5g"
+    },
+    {
+      "id": "1000189680",
+      "name": "Кофе в зернах Monarch Original натуральный жареный 230г",
+      "price": "329.99",
+      "regular_price": "799.99",
+      "seoCode": "jacobs_monarch_kofe_natur_zhar_v_zernakh_230g_m_u_yakobs_9"
+    },
+    {
+      "id": "1000270450",
+      "name": "Кофе растворимый Нескафе Классик 190г",
+      "price": "449.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_classic_rastvorimyy_190g"
+    },
+    {
+      "id": "1000156233",
+      "name": "Кофе молотый Живой кофе Arabica 200г",
+      "price": "299.99",
+      "regular_price": "509.99",
+      "seoCode": "kofe_zhivoy_arabika_naturalnyy_molotyy_200g"
+    },
+    {
+      "id": "1000304443",
+      "name": "Кофе зерновой Jardin Americano Crema 1кг",
+      "price": "1699.99",
+      "regular_price": "2099.99",
+      "seoCode": "jardin_americano_crema_kofe_1090_06_zernovoy_srednyaya_obzharka_1kg_stabilo_beg_orimi_ooo_6"
+    },
+    {
+      "id": "1000341773",
+      "name": "Кофе растворимый Nescafe Gold Aroma 85г",
+      "price": "349.99",
+      "regular_price": "829.99",
+      "seoCode": "nescafe_kofe_12451506_rastvorimyy_sublimirovannyy_85g_steklyannaya_banka_ooo_nestle_kuban_6"
+    },
+    {
+      "id": "1000503047",
+      "name": "Кофе молотый Lebo Coffee Extra Арабика для турки 75г",
+      "price": "179.99",
+      "regular_price": "279.99",
+      "seoCode": "lebo_coffee_extra_kofe_molotyy_arabika_dlya_turki_75g"
+    },
+    {
+      "id": "1524200016",
+      "name": "Кофе растворимый Жокей Триумф 95г",
+      "price": "308.99",
+      "regular_price": "409.99",
+      "seoCode": "kofe_zhokey_triumf_rastvorimyy_95g"
+    },
+    {
+      "id": "1000378334",
+      "name": "Кофе молотый Lebo Classic арабика для турки 200г",
+      "price": "471.99",
+      "regular_price": "859.99",
+      "seoCode": "lebo_coffee_kofe_200g_stabilo_beg_ao_kompaniya_produkt_servis_12"
+    },
+    {
+      "id": "1537000002",
+      "name": "Кофе молотый Московская кофейня на паяхъ Арабика 250г",
+      "price": "529.99",
+      "regular_price": "1099.99",
+      "seoCode": "moskovskaya_kofeynya_na_payakh_kofe_arabika_molotyy_250g_6"
+    },
+    {
+      "id": "1000270560",
+      "name": "Кофе молотый в растворимом Nescafe Gold 130г",
+      "price": "429.99",
+      "regular_price": "1019.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_130g"
+    },
+    {
+      "id": "1000401819",
+      "name": "Кофе молотый Моя цена натуральный 100г",
+      "price": "139.99",
+      "regular_price": "No.ne",
+      "seoCode": "moya_tsena_kofe_natur_molotyy_100g"
+    },
+    {
+      "id": "1000532505",
+      "name": "Напиток кофейный Monarch Classic Cappuccino 15г",
+      "price": "26.99",
+      "regular_price": "40.99",
+      "seoCode": "monarch_napitok_kofeynyy_classic_cappuccino_15g"
+    },
+    {
+      "id": "1000401817",
+      "name": "Кофе зерновой Gusto Di Roma натуральный 1кг",
+      "price": "1499.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_1000g"
+    },
+    {
+      "id": "1000401818",
+      "name": "Кофе в зернах Gusto Di Roma натуральный 200г",
+      "price": "319.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_250g"
+    },
+    {
+      "id": "1000309032",
+      "name": "Кофе зерновой Fresco Arabica 200г",
+      "price": "389.99",
+      "regular_price": "599.99",
+      "seoCode": "fresco_arabica_solo_kofe_naturalnyy_zharenyy_v_zernakh_sredneobzharennyy_200g_stabilo_beg_ooo_slavko"
+    },
+    {
+      "id": "1000309100",
+      "name": "Кофе в капсулах Jardin Vanillia 10шт",
+      "price": "269.99",
+      "regular_price": "429.99",
+      "seoCode": "jardin_vanillia_kofe_1355_10_molotyy_legkaya_obzharka_50g_kartonnaya_upakovka_orimi_ooo_10"
+    },
+    {
+      "id": "1000422266",
+      "name": "Кофе растворимый Nescafe Gold Origins Alta Rica 170г",
+      "price": "599.99",
+      "regular_price": "1599.99",
+      "seoCode": "nescafe_gold_origins_alta_rica_kofe_nat_rastv_subl_170g_st_b"
+    },
+    {
+      "id": "1000561353",
+      "name": "Кофе растворимый Nescafe Gold Crema 170г",
+      "price": "1599.99",
+      "regular_price": "No.ne",
+      "seoCode": "neskafe_gold_krema_kofe_rastvorimyy_170g_st_ban_nestle"
+    },
+    {
+      "id": "1000478811",
+      "name": "Кофе в капсулах Gusto Di Roma Капучино Dolce Gusto 16шт 144г",
+      "price": "419.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_kapuchino_dolce_gusto_16sht"
+    },
+    {
+      "id": "9939990001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 500г",
+      "price": "999.99",
+      "regular_price": "1999.99",
+      "seoCode": "kofe_moskovskaya_kofeynya_na_payakh_arabika_zernovoy_500g"
+    },
+    {
+      "id": "8000008281",
+      "name": "Кофе молотый Coffesso Allure 250г",
+      "price": "449.99",
+      "regular_price": "799.99",
+      "seoCode": "coffesso_allure_kofe_molotyy_250g_m_up"
+    },
+    {
+      "id": "1000512830",
+      "name": "Кофе в капсулах Gusto Di Roma Латте карамель Dolce Gusto 16шт 144г",
+      "price": "399.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_latte_karamel_dolcegusto_16sht"
+    },
+    {
+      "id": "1000306706",
+      "name": "Кофе растворимый Nescafe Gold натуральный сублимированный 220г",
+      "price": "1399.99",
+      "regular_price": "No.ne",
+      "seoCode": "nescafe_gold_kofe_12402811_220g_doy_pak_ooo_nestle_kuban_12"
+    },
+    {
+      "id": "8000008411",
+      "name": "Кофе в зернах Monarch Gold Arabica натуральный жареный 200г",
+      "price": "399.99",
+      "regular_price": "799.99",
+      "seoCode": "monarch_gold_arabica_kofe_natur_zhar_v_zernakh_200g"
+    },
+    {
+      "id": "1000230149",
+      "name": "Кофе молотый в растворимом Nescafe Gold 75г",
+      "price": "259.99",
+      "regular_price": "569.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_75g"
+    },
+    {
+      "id": "1537000001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 250г",
+      "price": "529.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_arabika_v_zernakh_250g"
+    },
+    {
+      "id": "9919990036",
+      "name": "Кофе в зернах Julius Meinl Президент 500г",
+      "price": "1399.99",
+      "regular_price": "1899.99",
+      "seoCode": "julius_meinl_prasident_kofe_zern_v_s_500g_dzhuliusmeynl_12"
+    },
+    {
+      "id": "1000388607",
+      "name": "Кофе в зернах Fresco Arabica Barista натуральный жареный 1кг",
+      "price": "1499.99",
+      "regular_price": "2599.99",
+      "seoCode": "fresco_arabica_barista_kofe_natur_zhar_v_zernakh_1000g"
+    },
+    {
+      "id": "1000106610",
+      "name": "Кофе молотый в растворимом Nescafe Gold Barista 85г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_gold_barista_style_molotyy_v_rastvorimom_85g"
+    },
+    {
+      "id": "1000385877",
+      "name": "Кофе в капсулах Monarch Lungo 8 Intenso жареный 52г 10шт",
+      "price": "349.99",
+      "regular_price": "599.99",
+      "seoCode": "jacobs_kofe_naturalnyy_zharenyy_molotyy_52g_kartonnaya_upakovka_10"
+    },
+    {
+      "id": "1000447880",
+      "name": "Кофе в зёрнах Lalibela Coffee Classic 500г",
+      "price": "891.99",
+      "regular_price": "1699.99",
+      "seoCode": "lalibela_coffee_classic_kofe_v_zyernakh_500g_stab_beg"
+    },
+    {
+      "id": "1000532505",
+      "name": "Напиток кофейный Monarch Classic Cappuccino 15г",
+      "price": "26.99",
+      "regular_price": "40.99",
+      "seoCode": "monarch_napitok_kofeynyy_classic_cappuccino_15g"
+    },
+    {
+      "id": "1000401817",
+      "name": "Кофе зерновой Gusto Di Roma натуральный 1кг",
+      "price": "1499.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_1000g"
+    },
+    {
+      "id": "1000401818",
+      "name": "Кофе в зернах Gusto Di Roma натуральный 200г",
+      "price": "319.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_250g"
+    },
+    {
+      "id": "1000309032",
+      "name": "Кофе зерновой Fresco Arabica 200г",
+      "price": "389.99",
+      "regular_price": "599.99",
+      "seoCode": "fresco_arabica_solo_kofe_naturalnyy_zharenyy_v_zernakh_sredneobzharennyy_200g_stabilo_beg_ooo_slavko"
+    },
+    {
+      "id": "1000309100",
+      "name": "Кофе в капсулах Jardin Vanillia 10шт",
+      "price": "269.99",
+      "regular_price": "429.99",
+      "seoCode": "jardin_vanillia_kofe_1355_10_molotyy_legkaya_obzharka_50g_kartonnaya_upakovka_orimi_ooo_10"
+    },
+    {
+      "id": "1000422266",
+      "name": "Кофе растворимый Nescafe Gold Origins Alta Rica 170г",
+      "price": "599.99",
+      "regular_price": "1599.99",
+      "seoCode": "nescafe_gold_origins_alta_rica_kofe_nat_rastv_subl_170g_st_b"
+    },
+    {
+      "id": "1000561353",
+      "name": "Кофе растворимый Nescafe Gold Crema 170г",
+      "price": "1599.99",
+      "regular_price": "No.ne",
+      "seoCode": "neskafe_gold_krema_kofe_rastvorimyy_170g_st_ban_nestle"
+    },
+    {
+      "id": "1000478811",
+      "name": "Кофе в капсулах Gusto Di Roma Капучино Dolce Gusto 16шт 144г",
+      "price": "419.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_kapuchino_dolce_gusto_16sht"
+    },
+    {
+      "id": "9939990001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 500г",
+      "price": "999.99",
+      "regular_price": "1999.99",
+      "seoCode": "kofe_moskovskaya_kofeynya_na_payakh_arabika_zernovoy_500g"
+    },
+    {
+      "id": "8000008281",
+      "name": "Кофе молотый Coffesso Allure 250г",
+      "price": "449.99",
+      "regular_price": "799.99",
+      "seoCode": "coffesso_allure_kofe_molotyy_250g_m_up"
+    },
+    {
+      "id": "1000512830",
+      "name": "Кофе в капсулах Gusto Di Roma Латте карамель Dolce Gusto 16шт 144г",
+      "price": "399.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_latte_karamel_dolcegusto_16sht"
+    },
+    {
+      "id": "1000306706",
+      "name": "Кофе растворимый Nescafe Gold натуральный сублимированный 220г",
+      "price": "1399.99",
+      "regular_price": "No.ne",
+      "seoCode": "nescafe_gold_kofe_12402811_220g_doy_pak_ooo_nestle_kuban_12"
+    },
+    {
+      "id": "8000008411",
+      "name": "Кофе в зернах Monarch Gold Arabica натуральный жареный 200г",
+      "price": "399.99",
+      "regular_price": "799.99",
+      "seoCode": "monarch_gold_arabica_kofe_natur_zhar_v_zernakh_200g"
+    },
+    {
+      "id": "1000230149",
+      "name": "Кофе молотый в растворимом Nescafe Gold 75г",
+      "price": "259.99",
+      "regular_price": "569.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_75g"
+    },
+    {
+      "id": "1537000001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 250г",
+      "price": "529.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_arabika_v_zernakh_250g"
+    },
+    {
+      "id": "9919990036",
+      "name": "Кофе в зернах Julius Meinl Президент 500г",
+      "price": "1399.99",
+      "regular_price": "1899.99",
+      "seoCode": "julius_meinl_prasident_kofe_zern_v_s_500g_dzhuliusmeynl_12"
+    },
+    {
+      "id": "1000388607",
+      "name": "Кофе в зернах Fresco Arabica Barista натуральный жареный 1кг",
+      "price": "1499.99",
+      "regular_price": "2599.99",
+      "seoCode": "fresco_arabica_barista_kofe_natur_zhar_v_zernakh_1000g"
+    },
+    {
+      "id": "1000106610",
+      "name": "Кофе молотый в растворимом Nescafe Gold Barista 85г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_gold_barista_style_molotyy_v_rastvorimom_85g"
+    },
+    {
+      "id": "1000385877",
+      "name": "Кофе в капсулах Monarch Lungo 8 Intenso жареный 52г 10шт",
+      "price": "349.99",
+      "regular_price": "599.99",
+      "seoCode": "jacobs_kofe_naturalnyy_zharenyy_molotyy_52g_kartonnaya_upakovka_10"
+    },
+    {
+      "id": "1000447880",
+      "name": "Кофе в зёрнах Lalibela Coffee Classic 500г",
+      "price": "891.99",
+      "regular_price": "1699.99",
+      "seoCode": "lalibela_coffee_classic_kofe_v_zyernakh_500g_stab_beg"
+    },
+    {
+      "id": "1000532505",
+      "name": "Напиток кофейный Monarch Classic Cappuccino 15г",
+      "price": "26.99",
+      "regular_price": "40.99",
+      "seoCode": "monarch_napitok_kofeynyy_classic_cappuccino_15g"
+    },
+    {
+      "id": "1000401817",
+      "name": "Кофе зерновой Gusto Di Roma натуральный 1кг",
+      "price": "1499.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_1000g"
+    },
+    {
+      "id": "1000401818",
+      "name": "Кофе в зернах Gusto Di Roma натуральный 200г",
+      "price": "319.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_250g"
+    },
+    {
+      "id": "1000309032",
+      "name": "Кофе зерновой Fresco Arabica 200г",
+      "price": "389.99",
+      "regular_price": "599.99",
+      "seoCode": "fresco_arabica_solo_kofe_naturalnyy_zharenyy_v_zernakh_sredneobzharennyy_200g_stabilo_beg_ooo_slavko"
+    },
+    {
+      "id": "1000309100",
+      "name": "Кофе в капсулах Jardin Vanillia 10шт",
+      "price": "269.99",
+      "regular_price": "429.99",
+      "seoCode": "jardin_vanillia_kofe_1355_10_molotyy_legkaya_obzharka_50g_kartonnaya_upakovka_orimi_ooo_10"
+    },
+    {
+      "id": "1000422266",
+      "name": "Кофе растворимый Nescafe Gold Origins Alta Rica 170г",
+      "price": "599.99",
+      "regular_price": "1599.99",
+      "seoCode": "nescafe_gold_origins_alta_rica_kofe_nat_rastv_subl_170g_st_b"
+    },
+    {
+      "id": "1000561353",
+      "name": "Кофе растворимый Nescafe Gold Crema 170г",
+      "price": "1599.99",
+      "regular_price": "No.ne",
+      "seoCode": "neskafe_gold_krema_kofe_rastvorimyy_170g_st_ban_nestle"
+    },
+    {
+      "id": "1000478811",
+      "name": "Кофе в капсулах Gusto Di Roma Капучино Dolce Gusto 16шт 144г",
+      "price": "419.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_kapuchino_dolce_gusto_16sht"
+    },
+    {
+      "id": "9939990001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 500г",
+      "price": "999.99",
+      "regular_price": "1999.99",
+      "seoCode": "kofe_moskovskaya_kofeynya_na_payakh_arabika_zernovoy_500g"
+    },
+    {
+      "id": "8000008281",
+      "name": "Кофе молотый Coffesso Allure 250г",
+      "price": "449.99",
+      "regular_price": "799.99",
+      "seoCode": "coffesso_allure_kofe_molotyy_250g_m_up"
+    },
+    {
+      "id": "1000512830",
+      "name": "Кофе в капсулах Gusto Di Roma Латте карамель Dolce Gusto 16шт 144г",
+      "price": "399.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_latte_karamel_dolcegusto_16sht"
+    },
+    {
+      "id": "1000306706",
+      "name": "Кофе растворимый Nescafe Gold натуральный сублимированный 220г",
+      "price": "1399.99",
+      "regular_price": "No.ne",
+      "seoCode": "nescafe_gold_kofe_12402811_220g_doy_pak_ooo_nestle_kuban_12"
+    },
+    {
+      "id": "8000008411",
+      "name": "Кофе в зернах Monarch Gold Arabica натуральный жареный 200г",
+      "price": "399.99",
+      "regular_price": "799.99",
+      "seoCode": "monarch_gold_arabica_kofe_natur_zhar_v_zernakh_200g"
+    },
+    {
+      "id": "1000230149",
+      "name": "Кофе молотый в растворимом Nescafe Gold 75г",
+      "price": "259.99",
+      "regular_price": "569.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_75g"
+    },
+    {
+      "id": "1537000001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 250г",
+      "price": "529.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_arabika_v_zernakh_250g"
+    },
+    {
+      "id": "9919990036",
+      "name": "Кофе в зернах Julius Meinl Президент 500г",
+      "price": "1399.99",
+      "regular_price": "1899.99",
+      "seoCode": "julius_meinl_prasident_kofe_zern_v_s_500g_dzhuliusmeynl_12"
+    },
+    {
+      "id": "1000388607",
+      "name": "Кофе в зернах Fresco Arabica Barista натуральный жареный 1кг",
+      "price": "1499.99",
+      "regular_price": "2599.99",
+      "seoCode": "fresco_arabica_barista_kofe_natur_zhar_v_zernakh_1000g"
+    },
+    {
+      "id": "1000106610",
+      "name": "Кофе молотый в растворимом Nescafe Gold Barista 85г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_gold_barista_style_molotyy_v_rastvorimom_85g"
+    },
+    {
+      "id": "1000385877",
+      "name": "Кофе в капсулах Monarch Lungo 8 Intenso жареный 52г 10шт",
+      "price": "349.99",
+      "regular_price": "599.99",
+      "seoCode": "jacobs_kofe_naturalnyy_zharenyy_molotyy_52g_kartonnaya_upakovka_10"
+    },
+    {
+      "id": "1000447880",
+      "name": "Кофе в зёрнах Lalibela Coffee Classic 500г",
+      "price": "891.99",
+      "regular_price": "1699.99",
+      "seoCode": "lalibela_coffee_classic_kofe_v_zyernakh_500g_stab_beg"
+    },
+    {
+      "id": "1000532505",
+      "name": "Напиток кофейный Monarch Classic Cappuccino 15г",
+      "price": "26.99",
+      "regular_price": "40.99",
+      "seoCode": "monarch_napitok_kofeynyy_classic_cappuccino_15g"
+    },
+    {
+      "id": "1000401817",
+      "name": "Кофе зерновой Gusto Di Roma натуральный 1кг",
+      "price": "1499.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_1000g"
+    },
+    {
+      "id": "1000401818",
+      "name": "Кофе в зернах Gusto Di Roma натуральный 200г",
+      "price": "319.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_natur_zern_250g"
+    },
+    {
+      "id": "1000309032",
+      "name": "Кофе зерновой Fresco Arabica 200г",
+      "price": "389.99",
+      "regular_price": "599.99",
+      "seoCode": "fresco_arabica_solo_kofe_naturalnyy_zharenyy_v_zernakh_sredneobzharennyy_200g_stabilo_beg_ooo_slavko"
+    },
+    {
+      "id": "1000309100",
+      "name": "Кофе в капсулах Jardin Vanillia 10шт",
+      "price": "269.99",
+      "regular_price": "429.99",
+      "seoCode": "jardin_vanillia_kofe_1355_10_molotyy_legkaya_obzharka_50g_kartonnaya_upakovka_orimi_ooo_10"
+    },
+    {
+      "id": "1000422266",
+      "name": "Кофе растворимый Nescafe Gold Origins Alta Rica 170г",
+      "price": "599.99",
+      "regular_price": "1599.99",
+      "seoCode": "nescafe_gold_origins_alta_rica_kofe_nat_rastv_subl_170g_st_b"
+    },
+    {
+      "id": "1000561353",
+      "name": "Кофе растворимый Nescafe Gold Crema 170г",
+      "price": "1599.99",
+      "regular_price": "No.ne",
+      "seoCode": "neskafe_gold_krema_kofe_rastvorimyy_170g_st_ban_nestle"
+    },
+    {
+      "id": "1000478811",
+      "name": "Кофе в капсулах Gusto Di Roma Капучино Dolce Gusto 16шт 144г",
+      "price": "419.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_kapuchino_dolce_gusto_16sht"
+    },
+    {
+      "id": "9939990001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 500г",
+      "price": "999.99",
+      "regular_price": "1999.99",
+      "seoCode": "kofe_moskovskaya_kofeynya_na_payakh_arabika_zernovoy_500g"
+    },
+    {
+      "id": "8000008281",
+      "name": "Кофе молотый Coffesso Allure 250г",
+      "price": "449.99",
+      "regular_price": "799.99",
+      "seoCode": "coffesso_allure_kofe_molotyy_250g_m_up"
+    },
+    {
+      "id": "1000512830",
+      "name": "Кофе в капсулах Gusto Di Roma Латте карамель Dolce Gusto 16шт 144г",
+      "price": "399.99",
+      "regular_price": "No.ne",
+      "seoCode": "gusto_di_roma_kofe_v_kapsulakh_latte_karamel_dolcegusto_16sht"
+    },
+    {
+      "id": "1000306706",
+      "name": "Кофе растворимый Nescafe Gold натуральный сублимированный 220г",
+      "price": "1399.99",
+      "regular_price": "No.ne",
+      "seoCode": "nescafe_gold_kofe_12402811_220g_doy_pak_ooo_nestle_kuban_12"
+    },
+    {
+      "id": "8000008411",
+      "name": "Кофе в зернах Monarch Gold Arabica натуральный жареный 200г",
+      "price": "399.99",
+      "regular_price": "799.99",
+      "seoCode": "monarch_gold_arabica_kofe_natur_zhar_v_zernakh_200g"
+    },
+    {
+      "id": "1000230149",
+      "name": "Кофе молотый в растворимом Nescafe Gold 75г",
+      "price": "259.99",
+      "regular_price": "569.99",
+      "seoCode": "kofe_nescafe_gold_rastvorimyy_s_molotym_75g"
+    },
+    {
+      "id": "1537000001",
+      "name": "Кофе в зернах Московская кофейня на паяхъ Арабика 250г",
+      "price": "529.99",
+      "regular_price": "1099.99",
+      "seoCode": "kofe_arabika_v_zernakh_250g"
+    },
+    {
+      "id": "9919990036",
+      "name": "Кофе в зернах Julius Meinl Президент 500г",
+      "price": "1399.99",
+      "regular_price": "1899.99",
+      "seoCode": "julius_meinl_prasident_kofe_zern_v_s_500g_dzhuliusmeynl_12"
+    },
+    {
+      "id": "1000388607",
+      "name": "Кофе в зернах Fresco Arabica Barista натуральный жареный 1кг",
+      "price": "1499.99",
+      "regular_price": "2599.99",
+      "seoCode": "fresco_arabica_barista_kofe_natur_zhar_v_zernakh_1000g"
+    },
+    {
+      "id": "1000106610",
+      "name": "Кофе молотый в растворимом Nescafe Gold Barista 85г",
+      "price": "399.99",
+      "regular_price": "899.99",
+      "seoCode": "kofe_nescafe_gold_barista_style_molotyy_v_rastvorimom_85g"
+    },
+    {
+      "id": "1000385877",
+      "name": "Кофе в капсулах Monarch Lungo 8 Intenso жареный 52г 10шт",
+      "price": "349.99",
+      "regular_price": "599.99",
+      "seoCode": "jacobs_kofe_naturalnyy_zharenyy_molotyy_52g_kartonnaya_upakovka_10"
+    },
+    {
+      "id": "1000447880",
+      "name": "Кофе в зёрнах Lalibela Coffee Classic 500г",
+      "price": "891.99",
+      "regular_price": "1699.99",
+      "seoCode": "lalibela_coffee_classic_kofe_v_zyernakh_500g_stab_beg"
+    },
+    {
+      "id": "1000378335",
+      "name": "Кофе в зернах Lebo Classic 1кг",
+      "price": "2519.99",
+      "regular_price": "3599.99",
+      "seoCode": "lebo_coffee_kofe_1000g_stabilo_beg_ao_kompaniya_produkt_servis_5"
+    },
+    {
+      "id": "1000447881",
+      "name": "Кофе в зёрнах Lalibela Coffee Espresso 500г",
+      "price": "891.99",
+      "regular_price": "1899.99",
+      "seoCode": "lalibela_coffee_espresso_kofe_v_zyernakh_500g_stab_beg"
+    },
+    {
+      "id": "1000281648",
+      "name": "Кофе в капсулах молотый Lor Espresso Lungo Profondo 52г 10шт",
+      "price": "399.99",
+      "regular_price": "659.99",
+      "seoCode": "l_or_espresso_lungo_profondo_kofe_naturalnyy_zharenyy_molotyy_kapsuly_dlya_kofemashin_52g_kartonnaya"
+    },
+    {
+      "id": "8000029056",
+      "name": "Кофе растворимый Inspirato сублимированный 70г",
+      "price": "219.99",
+      "regular_price": "No.ne",
+      "seoCode": "inspirato_kofe_sublimirovannyy_70g_st_b_rossiya_6"
+    },
+    {
+      "id": "1000378335",
+      "name": "Кофе в зернах Lebo Classic 1кг",
+      "price": "2519.99",
+      "regular_price": "3599.99",
+      "seoCode": "lebo_coffee_kofe_1000g_stabilo_beg_ao_kompaniya_produkt_servis_5"
+    },
+    {
+      "id": "1000447881",
+      "name": "Кофе в зёрнах Lalibela Coffee Espresso 500г",
+      "price": "891.99",
+      "regular_price": "1899.99",
+      "seoCode": "lalibela_coffee_espresso_kofe_v_zyernakh_500g_stab_beg"
+    },
+    {
+      "id": "1000281648",
+      "name": "Кофе в капсулах молотый Lor Espresso Lungo Profondo 52г 10шт",
+      "price": "399.99",
+      "regular_price": "659.99",
+      "seoCode": "l_or_espresso_lungo_profondo_kofe_naturalnyy_zharenyy_molotyy_kapsuly_dlya_kofemashin_52g_kartonnaya"
+    },
+    {
+      "id": "8000029056",
+      "name": "Кофе растворимый Inspirato сублимированный 70г",
+      "price": "219.99",
+      "regular_price": "No.ne",
+      "seoCode": "inspirato_kofe_sublimirovannyy_70g_st_b_rossiya_6"
+    }
+  ]
+}
